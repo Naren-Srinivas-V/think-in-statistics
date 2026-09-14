@@ -390,6 +390,6 @@ graph TD
 ```
 
 ### 6.2 Confounders & Colliders
-**Definition:** A *confounder* is a variable that influences both the presumed cause and the outcome, creating a spurious association. A *collider* is a variable influenced by two other variables — conditioning on it can create a *fake* association between those two variables that didn't exist before.
+**Definition:** A *confounder* is a variable that a  influences both the presumed cause and the outcome, creating a spurious association. A *collider* is a variable influenced by two other variables — conditioning on it can create a *fake* association between those two variables that didn't exist before.
 
 **Real-life example (confounder):** Coffee drinkers appear to have more heart disease — but smoking (a confounder) makes people more likely t
